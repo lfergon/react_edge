@@ -1,0 +1,24 @@
+{
+  "name": "react_edge",
+  "version": "0.0.1",
+  "description": "Gulp and react",
+  "main": "app.js",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-watch": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lfergon/react_edge.git"
+  },
+  "author": "lfergon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfergon/react_edge/issues"
+  },
+  "homepage": "https://github.com/lfergon/react_edge"
+}
